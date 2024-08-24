@@ -1,0 +1,118 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+ 
+ 
+ }
+* {
+    font-family: sans-serif;
+}
+
+.hero-section {
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+h1 {
+    font-size: 40px;
+}
+
+.hero-section#model3 {
+    background-image: url(a6426bc8-6221-456e-9d4d-71f2c8546d82.jfif);
+
+}
+
+.hero-section#modely {
+    background-image: url(06357db6-5b07-444d-ba1d-ee06566653c3.jfif);
+
+}
+.hero-section#modelx {
+background-image: url(cf912a63-1add-4aa1-b8f2-f36fff285b63.jfif);
+
+}
+.hero-section#models {
+    background-image: url(400210d7-5140-450a-86c7-232163b149d8.jfif);
+}
+
+.hero-section#cybertruck{
+    background-image: url(97834cdd-fa0e-4f64-9e95-bae6a89a1a3c.jfif);
+    button.primiry {
+        background-color: #000000;
+        color: aliceblue;
+    
+    }
+    
+    button.secondry {
+        background-color: rgb(60, 57, 57);
+        border: gray;
+    }
+}
+.hero-section#SolarPanels  {
+    background-image: url(8145ba6a-139a-4174-8a0f-91d19b5ee5f5.jfif);
+}
+.hero-section#Solarroof{
+    background-image: url(55e579f1-4a9a-45f7-a25d-01453bd8a6b8.jfif);
+}
+.hero-section#powerwall{
+    background-image: url(af8ebdfc-2401-49dd-b7ea-39817f1c9bb6.jfif);
+}
+.hero-section#Accessories {
+    background-image: url(4d8785d2-d096-4812-8e01-1a38ddebf57b.jfif);
+    button.primiry { margin: 60px; }
+}
+
+.section-title {
+    line-height: 10px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 150%;
+}
+
+a {
+    color: aliceblue;
+}
+
+.section-actions {
+
+    text-align: center;
+    display: flex;
+    margin: 450px;
+}
+
+button {
+    font-weight: bold;
+    height: 3em;
+    width: 20em;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+
+}
+
+button.primiry {
+    background-color: #3393ff;
+    color: aliceblue;
+
+}
+
+button.secondry {
+    background-color: white;
+}
+hr {
+    border: 1px solid red;
+  }
+  .info{
+color: antiquewhite;
+font-size: small;
+text-align: center;
+font-family: Lucida-Console;
+
+}
